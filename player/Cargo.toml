@@ -8,6 +8,7 @@ edition = "2021"
 [dependencies]
 strum = "0.21"
 lazy_static = "1"
+pathfinding = "3.0.13"
 
 [dependencies.bomber_lib]
 path = "../bomber_lib"
